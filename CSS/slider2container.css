@@ -1,0 +1,10 @@
+ .slider2-container {
+    background-color: #F0F0F0;
+}
+ .slider2-container .slider{
+        width: 80%;
+        margin: auto;
+}
+ .slick-slide {
+    display: inline-block;
+}

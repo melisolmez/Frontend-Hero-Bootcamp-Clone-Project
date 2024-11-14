@@ -1,0 +1,20 @@
+.question{
+    margin-top: 150px;
+    height: 350px;
+    background-color: #FFFFFF;
+}
+.question h1{
+   margin-left: 100px;
+   padding-top: 60px;
+
+}
+
+.question .container-why{
+   display: flex;
+   margin-left: 100px;
+   margin-right:100px;
+   margin-top: 20px;
+}
+.question p{
+    font-size: small;
+}

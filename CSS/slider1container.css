@@ -1,0 +1,31 @@
+.slider-container{
+    background-color: #F6F8FF;
+    margin-bottom: 20px;
+}
+
+.slider-container .carousel-inner {
+   width: 80%;
+   margin: 0 auto;
+   padding: 20px;
+   box-sizing: border-box;
+}
+.carousel-inner img {
+   width: 100%; 
+   height: auto; 
+}
+.carousel-indicators {
+    position: absolute;
+    bottom: -20px;
+    display: flex;
+    justify-content: center;
+    width: 70%;
+}
+.carousel-indicators button{   
+    border-radius: 50%; 
+    border: none;
+    background-color: white;
+}
+.slider img {
+    width: 100%;
+    height: auto;
+}

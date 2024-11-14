@@ -1,0 +1,34 @@
+.examine{
+    height: 300px;
+    background-color: #EFFFEB;
+
+}
+.examine .text-discover{
+    margin-top:50px;
+    margin-left:100px;
+
+}
+.text-discover h1{
+    font-weight: bold;
+}
+.color-text{
+    color:#00C26D;
+}
+.examine .text p{
+    margin-left: 100px;
+    word-wrap: break-word;
+    white-space: normal;
+}
+.examine .buton-examine{
+    margin-left: 100px;
+    margin-top:10px;
+    border:none;
+    width: 150px;
+    height: 50px;
+    background-color: #00C26D;
+    color: white;
+}
+.examine .img-discover{
+    margin-left: 755px;
+    margin-top: -280px;
+}
