@@ -1,6 +1,6 @@
 .question{
     margin-top: 150px;
-    height: 350px;
+    height: 400px;
     background-color: #FFFFFF;
 }
 .question h1{
@@ -8,7 +8,6 @@
    padding-top: 60px;
 
 }
-
 .question .container-why{
    display: flex;
    margin-left: 100px;

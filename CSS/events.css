@@ -1,0 +1,37 @@
+.events{
+    margin-top: 150px;
+    height: 450px;
+    background-color: white;
+}
+
+.events .container-events{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+    padding: 50px;
+    justify-content: space-between;
+    gap: 30px; 
+}
+.bootcamp, .hackathon, .hiring {
+    width: 40%;
+    text-align: left;
+    padding: 20px;
+    border-radius: 10px;
+}
+.container-events b{
+    font-size: xx-large;
+
+}
+.container-events button{
+    background: none; 
+    border: none; 
+    color: #00C280;
+    font: inherit; 
+    cursor: pointer;
+    padding: 0;
+    text-decoration: none;
+}
+button:hover {
+    border-bottom: 1px solid #00C280;
+}

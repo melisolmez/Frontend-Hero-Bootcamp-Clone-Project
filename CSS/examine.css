@@ -1,10 +1,10 @@
 .examine{
-    height: 300px;
+    height: 400px;
     background-color: #EFFFEB;
 
 }
 .examine .text-discover{
-    margin-top:50px;
+    
     margin-left:100px;
 
 }
@@ -29,6 +29,6 @@
     color: white;
 }
 .examine .img-discover{
-    margin-left: 755px;
-    margin-top: -280px;
+    margin-left: 750px;
+    margin-top: -240px;
 }
