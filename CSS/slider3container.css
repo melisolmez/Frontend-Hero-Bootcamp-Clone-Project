@@ -1,0 +1,47 @@
+.slider3-container {
+    height: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    overflow: auto;
+}
+
+.slider3-container .slider3{
+    display: flex;
+}
+
+.slider3-container h2{
+    margin-top:10px;
+    margin-left: 50px;
+    padding: 20px;
+}
+.slider3 img{
+    width: 180px !important;
+    height: 200px;
+    object-fit: cover;
+    margin-left: -3px;
+    margin-top: -5px;
+        
+}
+.slider3 .card .card-body {
+    flex-direction: column; /* Resim ve metni üstten hizalar */
+    display: flex !important; /* Resim ve metni yan yana hizalar */
+    align-items: flex-start; /* Dikeyde baştan hizalar */
+} 
+.slider3 .card-body {
+    text-align: center; /* Metin sola hizalanır */
+}
+.slider3 .card {
+    width: 35rem !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+.card-img-container .card-text{
+    display: flex;
+    margin-top: -100px;
+    color: aquamarine;
+}
+
